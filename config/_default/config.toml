@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://www.ntemposd.me/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
