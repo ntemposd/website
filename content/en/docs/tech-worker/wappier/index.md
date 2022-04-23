@@ -19,7 +19,7 @@ wappier re-invents AI-driven optimization tech for games, apps, economies and ma
 
 ![Party at wappier](wappier.jpg "Summer Party 2019")
 
-## My Role at wappier
+## My role at wappier
 
 Facilitating the production of contemporary entertainment tech solutions for on-chain and off-chain apps.
 
@@ -29,4 +29,4 @@ Facilitating the production of contemporary entertainment tech solutions for on-
 
 ## Life at wappier
 
-This has been a Remote role from day one. With the whole team being traditionally at the office, I have been the first remote team member. Well, not for long! The most exciting story to unfold here, is how a fast-growing organization transitioned from Office to Remote in a week or two. One thing I am definitely still missing is traveling to attend team gatherings in Athens, Greece. I sadly couldn't manage to do that post-Pandemic.
+This has been a remote role from day one. With the whole team being traditionally at the office, I have been the first remote team member. Well, not for long! The most exciting story to unfold here, is how a fast-growing organization transitioned from office to remote in a week or two. One thing I am definitely still missing is traveling to attend wappier's team gatherings in Athens, Greece.
