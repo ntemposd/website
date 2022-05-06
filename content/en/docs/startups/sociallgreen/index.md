@@ -28,4 +28,14 @@ Role? Is startup founder a role? I have never seen anyone hiring a Startup Found
 
 ## Life at Sociallgreen
 
- Founding a hardware startup to disrupt recycling wasn't what I had in mind when planning my studies; however, feels like the best experience I could ever had. From Thessaloniki to Athens and back home, the failure was messy but the whole ordeal was a power boost for what was coming ahead.
+ Founding a hardware startup to disrupt recycling wasn't what I had in mind when planning my studies. However, it still feels like the best experience I could ever have. From Thessaloniki to Athens and back home, the failure was messy but the whole ordeal was a power boost for what was coming ahead.
+
+ <!--![Party at wappier](sociallgreen-1.jpg "Summer Party 2019")-->
+
+ ![Team working](sociallgreen-2.jpg "Dressing up a Prototype")
+
+ ![Party at wappier](sociallgreen-3.jpg "Summer Party 2019")
+
+ ![Party at wappier](sociallgreen-3.png "Summer Party 2019")
+
+ ![Party at wappier](sociallgreen-4.jpg "Summer Party 2019")

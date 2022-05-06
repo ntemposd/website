@@ -19,7 +19,7 @@ Clio Muse Tours specializes in the creation of audio and virtual tours as well a
 
 ## My role at Clio
 
-Advising Clio's founding team on the preparation of the Financial Statements during a seed fundraising period. The work was extended to timely meetings for further discussion on various strategic business initiatives.
+Advising Clio's founding team on the preparation of their Financial Statements during a seed fundraising period. The work was extended to timely meetings for further discussion on various strategic business initiatives.
 
 * Fundamental Financial Analysis
 * Pricing Models
@@ -27,4 +27,4 @@ Advising Clio's founding team on the preparation of the Financial Statements dur
 
 ## Working at Clio
 
-Back in the days Clio was hosted at ACEIN, the incubation center of the Athens University of Economics and Business; the place where our workshops taking place. ACE offers a co-working space packed with students and educational events, it's always cool to be around young entrepreneurs. Thanks to our work, the seed round raised enabled Clio to move in their new Athens Down-Town offices.
+Back in the days, Clio was working at ACEIN, the incubation center of the Athens University of Economics and Business, the place where our workshops took place. ACE offers a co-working space packed with students and educational events, and it's always cool to be around young entrepreneurs. Thanks to our work, the seed round raised enabled Clio to move into their new Athens Down-Town offices.

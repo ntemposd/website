@@ -15,11 +15,11 @@ toc: true
 
 ## About Kiwe
 
-Infant Programming team of the late 2011. Kiwe's goal was to provide customers with applications matching their needs. Using fresh academic knowledge combined with high quality market research, Kiwe Development showcased some interesting projects during the early application development days.
+An infant crossfunctional tech team of the early 10s. Kiwe's goal has been to provide customers with applications matching their needs. During the early days of App development, kiwe employed fresh academic knowledge combined with quality market research to launch many interesting projects.
 
 ## My role at Kiwe
 
-Being the only business student in a group of tech students with zero tech industry experience has been illuminating for what's coming. Kiwe was a first touchpoint with techies and the first step into the tech industry. My work was mainly on
+Being the only business student in a group of tech students with zero tech industry experience has been illuminating for what's coming. Kiwe was the first touchpoint with tech colleagues and the first step into the tech industry. My work was mainly on
 
 * Business Plan Preparation
 * Customer Research
@@ -27,4 +27,4 @@ Being the only business student in a group of tech students with zero tech indus
 
 ## Life at Kiwe
 
-Early years with lots of ideas:bulb:, beers:beers: and rapid implementations:iphone:. Sitting all together around one :one: screen for hours, doing things like parsing the 2012 Olympics website schedule to create an Android App :sweat_smile:.
+Early years with lots of brainstorming:bulb:, beers:beers:, and rapid implementations:iphone:. Sitting all together around one:one: screen for hours, doing things like parsing the 2012 London Olympics website schedule to create an Android App :sweat_smile: and much more.
