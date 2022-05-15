@@ -1,6 +1,2 @@
-baseurl = "https://www.ntemposd.me/"
+baseurl = "https://ntemposd.me/"
 canonifyURLs = false
-
-[privacy.youtube]
-    disable = false
-    privacyEnhanced = false
