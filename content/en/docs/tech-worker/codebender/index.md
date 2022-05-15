@@ -31,6 +31,8 @@ Throughout my time at Codebender we have tried to launch a spin-off product for 
 
 The friendliest workspace I have ever been in. Back in the days, Codebender's team worked at P-Space, a hackerspace for local geeks, and the place where the idea of Codebender was born. I moved to Patras, Greece to join them and work from the comfort of Codebender's sofa.
 
-![Calculator Project on Breadboard](codebender-1.jpg "My Calculator Project")
+![Calculator Project on Breadboard](codebender-1.jpg "My Calculator Project.")
 
-{{< vimeo id="127783395" title="A New Hugo Site in Under Two Minutes" >}}
+{{< vimeo id="118997342" title="My party Project." >}}
+
+{{< vimeo id="127783395" title="Preparing a Video for Maker Magazine." >}}
