@@ -36,7 +36,7 @@ While there might be this urgent feature that I'm trying to keep for the next sp
 I enjoy crafting low-fidelity designs using Balsamiq. I then present to the team so that I get an initial effort estimate, coming back for fixes and pushing them straight to an artist. I am sure they know how to create better experiences than I do.
 
 #### :toolbox:Presentations
-Crafting a presentation follows my Writing routine with some constraints. Twenty words per slide are more than enough. Showing something that moves, but not just animations is a key to engaging an audience. At last, try while presenting based on the audience's reactions… That’s what I am trying to master.  
+Crafting a presentation follows my Writing routine with some constraints. Twenty words per slide are more than enough. Showing something that moves, but not just animations is a key to engaging an audience.  
 
 #### :toolbox:Leadership
 Here I stand with the flat leader definition. I try to advise rather than command, commands are for the computers I work with humans. I am simply trying to compile clear goals, receive commitment, and let people work with minimal pings. I am available to help and use retrospectives for making our team better.
