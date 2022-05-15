@@ -34,5 +34,5 @@ The friendliest workspace I have ever been in. Back in the days, Codebender's te
 ![Calculator Project on Breadboard](codebender-1.jpg "My Calculator Project.")
 
 {{< vimeo id="118997342" title="My party Project." >}}
-
+<br>
 {{< vimeo id="127783395" title="Preparing a Video for Maker Magazine." >}}
