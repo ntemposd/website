@@ -93,3 +93,8 @@
 #   name = "Privacy"
 #   url = "/privacy-policy/"
 #   weight = 10
+
+ [[footer]]
+   name = "Source Code"
+   url = "https://github.com/ntemposd/website"
+   weight = 10
