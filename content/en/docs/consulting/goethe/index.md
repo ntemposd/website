@@ -33,4 +33,4 @@ Working with Goethe-Institut Thessaloniki to build a local hub for artists by cu
 
 ![Annual Meeting](goethe-1.jpg "Annual Meeting - Munich 2018.")
 
-{{< youtube id="KRY6Ym66Mmk" title="Annual Meetings" autoplay="true" >}}
+{{< youtube id="KRY6Ym66Mmk" frame-src="https://www.youtube.com/watch?v=KRY6Ym66Mmk" title="Annual Meetings" autoplay="true" >}}
