@@ -38,9 +38,9 @@ Role? Is startup founder a role? I have never seen anyone hiring a Startup Found
 
  ![Sociallgreen booth at Web Summit](sociallgreen-4.jpg "Exhibiting at Web Summit 2013")
 
- ![Sociallgreen Mobile App](sociallgreen-3.png "Mobile App Prototype")
+ <!--![Sociallgreen Mobile App](sociallgreen-3.png "Mobile App Prototype")-->
 
- ## Product Videos
+## Product Videos
 
 {{< vimeo id="60453408" title="Prototype Promo video." >}}
 <br>
