@@ -21,14 +21,14 @@ In 2015 alone, more than 500,000 refugees and migrants risked their lives crossi
 
 ## My role at BorderHack
 
-At the core organizers team of BorderHack; tried to connect teams with real refugee and host organization needs.
+At the core organizers team of BorderHack, tried to connect teams with real refugee needs and host organization objectives.
 
 * Coding the Hackathon's website
 * Hackathon Production & Program Management
 * Event & Logistics administration
 
 ## BorderHack's output
-Local techies have created prototypes and ready to use solutions within a weekend.
+Around 20 local techies have created prototypes and ready to use solutions within a weekend.
 
 ### Bordershare
 An imformation sharing website that aggregates all donation points within a city for goods to be distributed at refugee fields.
