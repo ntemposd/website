@@ -36,7 +36,7 @@ Role? Is startup founder a role? I have never seen anyone hiring a Startup Found
 
  ![Team working](sociallgreen-2.jpg "Dressing up a Prototype")
 
- ![Sociallgreen booth at Web Summit](sociallgreen-4.jpg "Exhibiting at Wen Summit 2013")
+ ![Sociallgreen booth at Web Summit](sociallgreen-4.jpg "Exhibiting at Web Summit 2013")
 
  ![Sociallgreen Mobile App](sociallgreen-3.png "Mobile App Prototype")
 
