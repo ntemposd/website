@@ -15,7 +15,7 @@ toc: true
 
 ## About Kiwe
 
-An infant crossfunctional tech team of the early 10s. Kiwe's goal has been to provide customers with applications matching their needs. During the early days of App development, kiwe employed fresh academic knowledge combined with quality market research to launch many interesting projects.
+An infant crossfunctional tech team of the early 10s. Kiwe's goal has been to provide customers with applications matching their needs. During the early days of App development, Kiwe employed fresh academic knowledge combined with quality market research to launch many interesting projects.
 
 ![Team working](kiwe-1.jpg "Working Meeting.")
 

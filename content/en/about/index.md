@@ -36,7 +36,7 @@ I am working with agile frameworks for small cross-functional teams of 5-7 peopl
 While there might be this urgent feature that I'm trying to keep for the next sprint, I prioritize using mainly the value/effort framework. Trying to keep requests in a different place than requirements and make sure I equally get all stakeholders' input before I start.
 {{< /details >}}
 
-{{< details "Designing" >}}
+{{< details "Design" >}}
 I enjoy crafting low-fidelity designs using Balsamiq. I then present to the team so that I get an initial effort estimate, coming back for fixes and pushing them straight to an artist. I am sure they know how to create better experiences than I do.
 {{< /details >}}
 

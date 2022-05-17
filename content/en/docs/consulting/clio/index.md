@@ -15,16 +15,16 @@ toc: true
 
 ## About Clio
 
-Clio Muse Tours specializes in the creation of audio and virtual tours as well as the development of state-of-the-art technologies for cultural institutions. Since 2014, Clio has collaborated with world-class cultural institutions and museums, curating more than 400 audio tours in over 15 countries and building a partners network that includes the world’s largest tour operators.
+Clio Muse Tours specializes in the creation of audio and virtual tours as well as the development of state-of-the-art technologies for cultural institutions. Since 2014, Clio has collaborated with world-class cultural institutions and museums, curating more than 400 audio tours in over 15 countries and building a partner network which includes the world’s largest tour operators.
 
 ## My role at Clio
 
-Advising Clio's founding team on the preparation of their Financial Statements during a seed fundraising period. The work was extended to timely meetings for further discussion on various strategic business initiatives.
+I have mainly advised Clio's founding team on the preparation for their Financial Statements during a seed fundraising period. The initial work extended to timely meetings for consulting on various strategic business initiatives.
 
 * Fundamental Financial Analysis
-* Pricing Models
 * Company Valuation
+* Pricing Models
 
-## Working at Clio
+## Working with Clio
 
-Back in the days, Clio was working at ACEIN, the incubation center of the Athens University of Economics and Business, the place where our workshops took place. ACE offers a co-working space packed with students and educational events, and it's always cool to be around young entrepreneurs. Thanks to our work, the seed round raised enabled Clio to move into their new Athens Down-Town offices.
+Back in the days, Clio was working at ACEIN, the incubation center of the Athens University of Economics and Business and the space where our workshops took place. ACEIN offers a co-working space packed with students and educational events; it's always great to be around young entrepreneurs. Thanks to our work, the seed round raised enabled Clio to move into their new Athens Down-Town offices.
