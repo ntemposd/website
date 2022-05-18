@@ -1,7 +1,7 @@
 ---
 title: "SXSW"
 description: "Being an advisory board member at SXSW Accelerator Pitch."
-lead: "Reviewed startup applications for the fintech & big-data tracks recruiting startups from Greece & Cyprus."
+lead: "Reviewed startup applications for the fintech & big-data tracks while recruiting startups from Greece & Cyprus."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
