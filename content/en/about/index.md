@@ -13,7 +13,7 @@ I am Dimitri, officially Dimitrios and I was born and raised in the biggest Euro
 
 As a kid, I wanted to be a chemist and that’s why my high-school specialization included chemistry, maths, physics, and biology courses. However, upon graduation, I have been enough agile to pursue a bachelor's in Economy. The school’s curriculum has been really wide-ranging from micro and macroeconomics to accounting, auditing, econometrics, finance, marketing, management, and an enlightening student exchange period in Sweden. Upon graduation, I still hadn’t found what I wanted to do when I grow up. Instead, I’ve just decided to start with a tech master in informatics and management. Eventually, I’m still here.
 
-## :computer:Professional experiences
+## :computer:Professional
 
 Given my entrepreneurial inside, I have done pretty diverse stuff. Throughout the years I have been managing roadmaps, breaking down tasks, preparing product requirement documents, running meetings, crafting financial plans, and communicating with internal & external stakeholders. I adore automation, short and clear emails, and clean spreadsheets. In 2012 I have graduated from the university with a running hardware startup, a nationally awarded product that tried to disrupt recycling. Ambitious? The failure was messy but the whole ordeal was a lesson. From 2014 onward I have been focusing mainly on product management while on the side doing community building for local techies and entrepreneurs.
 
