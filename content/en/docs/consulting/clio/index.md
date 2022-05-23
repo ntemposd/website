@@ -4,7 +4,7 @@ description: "Working with Clio Muse."
 lead: "Crafting Clio's financial statements for a seed funding round."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-draft: false
+draft: true
 images: []
 menu:
   docs:

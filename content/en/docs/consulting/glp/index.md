@@ -4,7 +4,7 @@ description: "Working with the GLP team."
 lead: "Consulted GLP team on a location-based algorithm recommender."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
-draft: false
+draft: true
 images: []
 menu:
   docs:
