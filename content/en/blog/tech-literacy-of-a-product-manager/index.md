@@ -12,11 +12,11 @@ contributors: ["ntemposd"]
 
 ## Introduction
 
-As product management matures you might have noticed the different types of Product Manager roles popping up often. According to the quick research I’ve just performed, there is currently a wide spectrum of Product Manager roles such as Data Product Manager, UX Product Manager, Growth Product Manager, Technical Product Manager, AI Product Manager, Enterprise Product Manager, and the list goes on but this is out of context now so let’s stop here.
+As product management matures you might have noticed the different types of Product Manager roles popping up often. According to the quick research I’ve just performed, there is currently a wide spectrum of Product Manager roles such as Data Product Manager, UX Product Manager, Growth Product Manager, Technical Product Manager, AI Product Manager, Enterprise Product Manager, and the list goes on but this is out of context for now so let’s stop here.
 
 ## How much technical
 
-No matter the type of a Product Manager one is, more or less technical, attached to the engineering team or the data scientists or far away in their room doing product research and managing business stakeholders; all product managers need to be technically literate. Fullstop. Not technical, just technically literate. Meaning they don’t need to write technical specifications or code but they need to understand the process of creating technology products. What’s the struggle, what writing code means, what’s a merge and why sometimes breaks, what an API is, migration, performance, technical debt, environments, and all those technical terms used in the everyday of product development.
+No matter the type of a Product Manager one is, more or less technical, attached to the engineering team or the data scientists or far away in their room doing product research and managing business stakeholders; all Product Managers need to be technically literate. Fullstop. Not technical, just technically literate. Meaning they don’t need to write technical specifications or code but they need to understand the process of creating technology products. What’s the struggle, what writing code means, what’s a merge and why sometimes breaks, what an API is, migration, performance, technical debt, environments, and all those technical terms used in the everyday of product development.
 
 ![Hardware Components](components.jpg "Tech is wide. Can you name those parts?")
 
