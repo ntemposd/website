@@ -1,12 +1,12 @@
 ---
 title: "A minimum viable business plan"
 description: "A template startup business plan."
-lead: "Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? We are in 2049 and you are building a Spacecraft. How a viable business plan might look like?"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+lead: "Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? We are in 2049 and you are building a Spacecraft🚀. How a viable business plan might look like?"
+date: 2017-02-05T09:19:42+01:00
+lastmod: 2017-02-05T09:19:42+01:00
 draft: false
-weight: 100
-images: ["say-hello-to-doks.png"]
+weight: 1000
+images: [spacecraft.png]
 contributors: ["ntemposd"]
 ---
 
@@ -69,7 +69,7 @@ On one hand Dummy-D outperforms competitive players by being far more comforting
 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
-![Dummy-D external view](http://ntemposd.me/img/Dummy-D.png "Dummy-D external view")
+![Spacecraft](spacecraft.png "Dummy-D external view")
 
 ##### Features
 
@@ -143,4 +143,6 @@ We'll be mainly spending to cover production, intellectual property, human resou
 |Net Profit      |4  |4  | 6 |6  |     20   |
 
 * We break even at the "Xth" Journey.
-* Our 3-year & 5-year income statements are distributed upon request :)
+* Our 3-year & 5-year income statements are distributed upon request
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="product" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

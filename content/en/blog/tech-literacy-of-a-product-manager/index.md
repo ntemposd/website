@@ -5,7 +5,7 @@ lead: "Product Manager, a role right in the intersection of business and tech th
 date: 2022-06-24T20:11:18+03:00
 lastmod: 2022-06-24T20:11:18+03:00
 draft: false
-weight: 99
+weight: 999
 images: ["components.jpg"]
 contributors: ["ntemposd"]
 ---
@@ -30,8 +30,11 @@ The short answer is “We are building the Form API”, so your colleague goes t
 
 ## The development team case
 
-Another common anti-pattern is the Product Manager keeping notes on the engineers' estimates and coming back to say “Why this Form will take 21 points? Last time we built a Form it took us 8.”. That’s not a great question to ask the development team... they might respond in short “This time the backend is not in place” but hey, what a technically illiterate person can get from this answer? Trying to interpret their short answer, they might mean "We need to create a new table in our database, the Form’s front-end, and the API to save the Form data into the database, our database is a relational one so the new table creation is a bit complex. On the contrary, last time both the table and the API were ready, the only thing we had to do was adding a Form on our front end". Are you sure it's necessary for your technical lead to always answering the long way?
+Another common anti-pattern is the Product Manager keeping notes on the engineers' estimates and coming back to say “Why this Form will take 21 points? Last time we built a Form it took us 8.”. That’s not a great question to ask the development team... they might respond in short “This time the backend is not in place” but hey, what a technically illiterate person can get from this answer? Trying to interpret their short answer, they might mean "We need to create a new table in our database, the Form’s front-end, and the API to save the Form data into the database, our database is a relational one so the new table creation is a bit complex. On the contrary, last time both the table and the API were ready, the only thing we had to do was adding a Form on our front end". Are you sure it's necessary for your technical lead to always be answering the long way?
 
 ## How to become technically literate
 
 Wrapping it up, tech skills are considered hard skills while business soft ones. It seems harder for a business background person to understand tech, while it's easier for a tech background person to own the technical concepts and acquire the business ones. To be honest, coming from a business background I second that. However, if there is a way of becoming technically literate fast and safe that's by doing it. One could argue it depends on your way of learning things, but to kick things off learn a programming language (Maybe Python or even HTML, free courses are everywhere), set up a little product yourself, even a website but no CMSs and stuff, launch 2-3 versions, attend tech meetups, on easy going days ask the engineers, and read. I bet there are more ways though; send me yours on [Twitter](https://twitter.com/ntemposd).
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="product" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
