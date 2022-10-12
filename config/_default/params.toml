@@ -46,14 +46,14 @@ siteLinksSearchBox = false
 themeColor = "#fff"
 
 # Images
-#quality = 85
-#bgColor = "#fff"
-#landscapePhotoWidths = [900, 800, 700, 600, 500]
-#portraitPhotoWidths = [800, 700, 600, 500]
-#lqipWidth = "20x"
-#smallLimit = "300"
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
 
-# Images
+# Images Doks 5.0
 imageResponsive = true
 imageConvertTo = "webp"
 imageImageSizes = ["480","720","1080","1280","1600","2048"]
