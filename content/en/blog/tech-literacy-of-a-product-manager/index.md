@@ -38,3 +38,22 @@ Wrapping it up, tech skills are considered hard skills while business soft ones.
 
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="product" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="card">
+  <div class="card-bar"></div>
+  <div class="card-body">
+    <h3 class="h4 card-title">👋 Stay in the loop</h3>
+    <p class="card-text">Subscribe to the Doks newsletter and get occasional updates.</p>
+    <form class="row gx-2 gy-3 email-form" name="newsletter" method="post" netlify-honeypot="name" data-netlify="true" onsubmit="subscribeButton.disabled = true">
+      <div class="col-md-12">
+        <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
+        <input name="email" type="email" class="form-control" placeholder="your@email.com" aria-label="Email address" required>
+        <input name="page" type="hidden" value="{{ .Page.Permalink }}">
+      </div>
+      <div class="col-md-4">
+        <button id="subscribeButton" type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Subscribe</button>
+      </div>
+    </form>
+
+  </div>
+</div>
