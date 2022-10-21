@@ -43,7 +43,7 @@ Wrapping it up, tech skills are considered hard skills while business soft ones.
   <div class="card-bar"></div>
   <div class="card-body">
     <h3 class="h4 card-title">👋 Stay in the loop</h3>
-    <p class="card-text">Subscribe to the Doks newsletter and get occasional updates.</p>
+    <p class="card-text">Subscribe to my newsletter and get occasional updates.</p>
     <form class="row gx-2 gy-3 email-form" name="newsletter" method="post" netlify-honeypot="name" data-netlify="true" onsubmit="subscribeButton.disabled = true">
       <div class="col-md-12">
         <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
