@@ -1,7 +1,7 @@
 ---
 title: "A minimum viable business plan"
 description: "A template startup business plan."
-lead: "Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? We are in 2049 and you are building a Spacecraft🚀. How a viable business plan might look like?"
+lead: "Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? We are in 2049 and you are building a Spacecraft 🚀. How a viable business plan might look like?"
 date: 2017-02-05T09:19:42+01:00
 lastmod: 2017-02-05T09:19:42+01:00
 draft: false
@@ -10,44 +10,44 @@ images: [spacecraft.png]
 contributors: ["ntemposd"]
 ---
 
-### Summary
+## Summary
 
 Dummy-D offers the most relaxing space traveling experience around the globe. Our Spacecrafts are developed to make travelers feel like home providing one of a kind features such as internet, sofas on-board and jacuzzi. We've been working on our product for a year now, using our own capital and are currently searching 40.000.000 drachmas to make the business roll. We already have some customer attention, manifested via pre-booked tickets; however, success is calculated on fully deposited bookings, starting from 1st January 2050.
 
-### Team
+## Team
 
 We met each other 10 years ago at the university. Our goal is to create a modern company where any professional would love to work.
 
-#### a. Members   
+### a. Members   
 
 *   **Bob**: A Hardware engineer with a solid experience on Spacecraft Development. Has worked for Lorem Inc. and Dolor LtD for more than 10 years.
 *   **Jen**: A Digital marketing expert that specializes on SEO. Has managed several marketing departments and loves designing new things.
 
-##### Expertise
+#### Expertise
 |          |               Area                    |   
 |----------|---------------------------------------|
 | Bob      | Hardware and Software Development.    |
 | Jen      | Business Operations, Sales and Design.|
 
-#### b. Legal
+### b. Legal
 
 Our company is an LtD based in the Dark Side of the Moon. Although the Moon is far away, Moon law is clear and straightforward with a tax rate of 9.9% and a VAT of 13%.
 
-##### Shareholding
+#### Shareholding
 |          | Shares |
 |----------|--------|
 | Bob      |   50%  |
 | Jen      |   50%  |
 
-### Market
+## Market
 
 Our Market is constantly growing since the first trip back in 2020. By 2048 the need of our product became clear, with more than 1.000.000 customers traveling around the universe.
 
-#### a. Geotargeting
+### a. Geotargeting
 
 More than half of space travelers are Africans with ~50% of them being Malawians. According to the African Space Institution, the average African citizen spends more than 100k drachmas per year for travel, with more than 50% of this amount going to space traveling. Later on, Latin American and Chinese markets will also be targeted.
 
-##### Expansion Map
+#### Expansion Map
 
 |                 | Jun'50  | Dec '50 | Jun '51 | Dec '51 |
 |-----------------|:-------:|:-------:|:-------:|:-------:|
@@ -55,7 +55,7 @@ More than half of space travelers are Africans with ~50% of them being Malawians
 | South America   |         |         |  :key:  |  :key:  |
 | China           |         |         |         |  :key:  |
 
-#### b. Competition
+### b. Competition
 
 |                 | Comfort | Security |  Price  | Total   |
 |-----------------|:-------:|:--------:|:-------:|:-------:|
@@ -65,13 +65,13 @@ More than half of space travelers are Africans with ~50% of them being Malawians
 
 On one hand Dummy-D outperforms competitive players by being far more comforting. On the other hand, ticket price is higher than the market average as relaxation services addition results to higher production costs. As the totals reveal, we enter the market offering an equivalent to traditional market leaders product.
 
-### Product
+## Product
 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
 ![Spacecraft](spacecraft.png "Dummy-D external view")
 
-##### Features
+#### Features
 
 |          | Description                                                                        |
 |----------|------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 | Sofas    | Anatomical sticky sofas that let you fly without having your seatbelt fastened.    |
 | Jacuzzi  | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
 
-##### Ticket Packages
+#### Ticket Packages
 
 *   Simple: Includes all the above features in the ticket price.
 *   Premium: Includes free flight from traveler's place to our space station.
@@ -87,16 +87,16 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 
 _note:_ Premium & Platinum packages will be introduced after the 1st operating year.
 
-### Marketing
+## Marketing
 
 We exclusively distribute our flight tickets through our website. The Simple ticket price is 10k drachmas per traveler. Payments are processed online. At the moment our core KPI is "Number of pre-bookings/Unique Website Visitors".
 
-#### a. Traveler Personas
+### a. Traveler Personas
 
 *   **Sally:** A young mom with kids aged 3-5. She travels during summer when kids are in camp. She mainly buys, during weekends, influenced by video experience.
 *   **Jimmy:** A highly paid worker that loves relaxation. He travels during Christmas and usually books more than 6 months in advance. He buys based on simulator experience.
 
-#### b. Channels
+### b. Channels
 
 |           | Action                                                                                                        | -state-  |
 |-----------|---------------------------------------------------------------------------------------------------------------|:--------:|
@@ -107,33 +107,33 @@ We exclusively distribute our flight tickets through our website. The Simple tic
 
 _*  Our accumulated potential reach is more than 800,000 travelers by the end of 2050._
 
-### Operations
+## Operations
 
 Core production is done in west Sahara. We'll stay there, expanding our current factory according to any emerging needs. Our Marketing team will be distributed into strategic areas around the globe.
 
-#### a. Production
+### a. Production
 
 *   **Design:** Jen designs a Dummy-D version. Bob analyzes and creates the BoM.
 *   **Development:** We order all needed supplies. Our robots assemble them into a Spacecraft.
 *   **Land Testing:** We check each and every part of the new Spacecraft individually.
 *   **Space Testing:** All Spacecrafts travel at least once before they officially take off.
 
-#### b. Risks
+### b. Risks
 
 *   **Supply failure:** We sign long term contracts with long-established supply companies.
 *   **Delays:** Delays are reimbursed by our insurance partner for a flat fee of 200 drachmas/year.
 
-### Financials
+## Financials
 
 We'll be mainly spending to cover production, intellectual property, human resources and marketing needs.
 
-#### a. Sales Projection _-thousand tickets_
+### a. Sales Projection _-thousand tickets_
 
 |     |Q1 |Q2 |Q3 |Q4 |2050-Total|
 |-----|:-:|:-:|:-:|:-:|:--------:|
 |Sales| 3 | 4 | 5 | 6 |   18     |
 
-#### b. Income Statement _-in million drachmas_
+### b. Income Statement _-in million drachmas_
 
 |                |Q1 |Q2 |Q3 |Q4 |2050-Total|
 |----------------|:-:|:-:|:-:|:-:|:--------:|
@@ -145,4 +145,19 @@ We'll be mainly spending to cover production, intellectual property, human resou
 * We break even at the "Xth" Journey.
 * Our 3-year & 5-year income statements are distributed upon request
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="product" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="businessplan" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+Subscribe to my newsletter and get occasional updates.
+
+<div id="custom-substack-embed"></div>
+
+<script>
+  window.CustomSubstackWidget = {
+    substackUrl: "ntemposd.substack.com",
+    placeholder: "example@gmail.com",
+    buttonText: "Subscribe",
+    theme: "purple"
+  };
+</script>
+<script src="https://substackapi.com/widget.js" async></script>
