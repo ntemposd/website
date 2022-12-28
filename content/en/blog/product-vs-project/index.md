@@ -67,7 +67,7 @@ A set of tasks that a company or team must complete to arrive at a particular ou
 
 ## Vision
 
-An organization's vision statement is an aspirational declaration that outlines its long-term goals. A successful vision statement inspires and steers the organization’s efforts. Let's see an example for each case. A product company's vision might look like the following; **Reinvent how people share knowledge, tell stories, and inspire their audiences to act**. Inspiring! On the other hand, a software house's vision statement might look like this; **We develop custom software that makes a difference**. It looks like a mission rather than a vision, right? If you ask me, a product DNA company follows its vision and the value its core idea delivers to the user community. On the contrary, a project DNA company follows its customers' ideas and their value definition. Okay, they try to sell some more value as well.
+An organization's vision statement is an aspirational declaration that outlines its long-term goals. A successful vision statement inspires and steers the organization’s efforts. Let's see an example for each case. A product company's vision might look like the following; **Reinvent how people share knowledge, tell stories, and inspire their audiences to act**. Inspiring! On the other hand, a software house's vision statement might look like this; **We develop custom software that makes a difference**. It looks like a mission rather than a vision, right? If you ask me, a product DNA company follows its vision and the value its core idea delivers to the user community. On the contrary, a project DNA company follows its customers' ideas and their value definition trying to tweak it so that the deal becomes lucrative.
 
 ## The confusion
 
