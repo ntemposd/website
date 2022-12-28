@@ -1,6 +1,6 @@
 ---
 title: "The technical literacy of a PM"
-description: "As product management matures you might have noticed the different types of Product Manager roles popping up often."
+description: "As product management matures Product Managers are becoming integral parts of the development team. This is why they should be tech literate."
 lead: "Product Manager, a role right in the intersection of business and tech that needs both technical and business skills to get things going. But, does it really need technical skills? Some! You don't need to be an engineer but... 🤿 let's dive deep."
 date: 2022-06-24T20:11:18+03:00
 lastmod: 2022-06-24T20:11:18+03:00
