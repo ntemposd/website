@@ -33,4 +33,9 @@ Working with Goethe-Institut Thessaloniki to build a local hub for artists by cu
 
 ![Annual Meeting](goethe-1.jpg "Annual Meeting - Munich 2018.")
 
+![Team Greece](goethe-5.jpg "Team Greece in Munich creative week.")
+
+![Presenting](goethe-4.jpg "Presenting Thessaloniki's creative scene.")
+
+
 {{< youtube id="KRY6Ym66Mmk" title="Annual Meetings" autoplay="true" >}}
