@@ -1,7 +1,7 @@
 ---
 title: "Startup Live Thessaloniki"
 description: "My time at Startup Live Thessaloniki."
-lead: "Leaded the first Startup Live Thessaloniki."
+lead: "Led the first Startup Live Thessaloniki."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
