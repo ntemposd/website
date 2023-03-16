@@ -29,10 +29,12 @@ DEVit has been organized by a team of 30+ volunteers and powered by SKGTECH NGO,
 
 ## DEVit moments
 
-![Using a photo Booth](devit-1.jpg "Squad click.")
+![Team photo](devit-5.jpg "The DEVit team.")
+
+![Using a photo booth](devit-1.jpg "Squad click.")
 
 ![Theater with people](devit-3.jpg "DEVit attendees.")
 
-![Guitar Playing](devit-4.jpg "Cut.")
+![Human playing guitar](devit-4.jpg "Cut.")
 
 {{< youtube id="151GqY3c_r4" title="DEVit 2017" autoplay="false" >}}

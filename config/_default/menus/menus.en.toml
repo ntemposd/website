@@ -51,6 +51,11 @@
   weight = 20
 
 # [[main]]
+#  name = "Contact"
+#  url = "/contact/"
+#  weight = 25
+
+# [[main]]
 #  name = "Get Started"
 #  weight = 30
 #  identifier = "get-started"
@@ -94,7 +99,7 @@
 #   url = "/privacy-policy/"
 #   weight = 10
 
- [[footer]]
-   name = "Source Code"
-   url = "https://github.com/ntemposd/website"
-   weight = 10
+[[footer]]
+  name = "Openly crafted with 💚 by ntemposd"
+  url = "https://github.com/ntemposd/website"
+  weight = 5

@@ -37,5 +37,4 @@ Working with Goethe-Institut Thessaloniki to build a local hub for artists by cu
 
 ![Presenting](goethe-4.jpg "Presenting Thessaloniki's creative scene.")
 
-
 {{< youtube id="KRY6Ym66Mmk" title="Annual Meetings" autoplay="true" >}}
