@@ -21,11 +21,11 @@ wappier re-invents AI-driven optimization tech for games, apps, economies and ma
 
 ## My role at wappier
 
-Facilitating the production of contemporary entertainment tech solutions for on-chain and off-chain apps.
+I was the first product hire at wappier where I facilitated the production of contemporary entertainment technology for the mobile gaming industry. During my tenure, I launched the Αlpha version of a 3D Visualization product, launched an SDK-powered Next Best Action framework and extended its use by launching a Next Best Action Shopify application for merchants. I also closely advised C-level colleagues on best practices and recommended a Product Management framework for the company. Finally, I played a key role in the early stages of the company-wide documentation project.
 
-* Crafting Product Roadmaps
-* Creating Features & Business Requirements
-* Managing Documentation Projects
+* Managed Product Roadmaps
+* Created Features & Business Requirements
+* Led Documentation Projects
 
 ## Life at wappier
 

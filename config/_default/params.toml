@@ -3,17 +3,17 @@
 ## Homepage
 title = "ntemposd"
 titleSeparator = "-"
-titleAddition = "Welcome to my website"
+titleAddition = "website"
 description = "Hi! I am Dimitris, also known as ntemposd, and this is my professional website. Have a look inside."
 
 ## Documentation
-# docsVersion = "0.3"
+# docsVersion = "0.4"
 
 ## Open Graph
 #images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "ntemposd.me"
-titleHome = "Doks Theme"
+titleHome = "Dimitri's website"
 
 ## Twitter Cards
 # twitterSite = "@getdoks"
@@ -68,7 +68,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2022 Dimitrios Ntempos"
+copyRight = "Copyright (c) 2023 Dimitrios Ntempos"
 
 # Alert
 alert = false
