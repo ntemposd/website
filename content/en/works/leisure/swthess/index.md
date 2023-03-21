@@ -34,7 +34,7 @@ Running Techstars educational programs for the local tech community in collabora
 
 ## Startup Weekend Moments
 
-![Online Community Gathering](2020-04-swthess.jpg "Greece Remote - April 2020.")
+![Online Community Gathering](2020-04-swgreece.jpg "Greece Remote - April 2020.")
 
 ![Community Image](2018-02-swthess.jpg "Thessaloniki - February 2018.")
 
