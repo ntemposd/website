@@ -7,7 +7,7 @@ lastmod: 2020-11-12T15:22:20+01:00
 draft: true
 images: []
 menu:
-  docs:
+  works:
     parent: "consulting"
 weight: 33
 toc: true

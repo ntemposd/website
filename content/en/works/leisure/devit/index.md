@@ -7,7 +7,7 @@ lastmod: 2020-11-12T15:22:20+01:00
 draft: false
 images: [devit-2.jpg]
 menu:
-  docs:
+  works:
     parent: "leisure"
 weight: 36
 toc: true

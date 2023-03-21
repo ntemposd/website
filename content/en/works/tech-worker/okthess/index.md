@@ -7,7 +7,7 @@ lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: [okthess-3.jpg]
 menu:
-  docs:
+  works:
     parent: "tech-worker"
 weight: 22
 toc: true

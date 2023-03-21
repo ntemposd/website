@@ -7,7 +7,7 @@ lastmod: 2021-05-15T08:48:57+00:00
 draft: false
 images: [wappier.jpg]
 menu:
-  docs:
+  works:
     parent: "tech-worker"
 weight: 20
 toc: true

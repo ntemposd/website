@@ -7,7 +7,7 @@ lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: [2018-12-swthess.jpg]
 menu:
-  docs:
+  works:
     parent: "leisure"
 weight: 35
 toc: true
