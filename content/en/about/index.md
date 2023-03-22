@@ -1,5 +1,5 @@
 ---
-title: "About Dimitrios Ntempos"
+title: "About"
 description: "Get to know me better"
 date: 2022-05-14T17:44:19+03:00
 lastmod: 2022-05-14T17:44:19+03:00

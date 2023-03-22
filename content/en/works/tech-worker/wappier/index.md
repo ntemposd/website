@@ -1,5 +1,5 @@
 ---
-title: "wappier"
+title: "Wappier"
 description: "My time at wappier."
 lead: "Facilitating the production of contemporary entertainment tech solutions.​"
 date: 2021-05-15T08:48:57+00:00

@@ -5,7 +5,7 @@ lead: "Bootstrapped a hardware tech startup to disrupt recycling and failed."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
-images: []
+images: [sociallgreen-2.jpg]
 menu:
   works:
     parent: "startups"
