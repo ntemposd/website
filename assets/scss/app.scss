@@ -15,7 +15,6 @@
 
 /** Import theme styles */
 @import "common/fonts";
-@import "common/dark";
 @import "common/global";
 @import "components/alerts";
 @import "components/buttons";
@@ -32,3 +31,4 @@
 @import "layouts/pages";
 @import "layouts/posts";
 @import "layouts/sidebar";
+@import "common/dark";
