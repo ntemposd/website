@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Work"
-  url = "/docs/tech-worker/wappier/"
-  weight = 10
-
-[[main]]
   name = "Blog"
   url = "/blog/"
   weight = 20

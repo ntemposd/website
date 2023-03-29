@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-I am Dimitri, officially Dimitrios and I was born and raised in the biggest European city before Asia. Thessaloniki lays on the coastline of the Thermaic Gulf and inhabits around 1 million people. The city is founded in 315 B.C. and named after the sister of Alexander the Great. Throughout the centuries, it has been home to many cultures including Greeks, Turks, Jews, and Romans. Any of them left a twist so that any visitor can hardly not feel at home.
+I am Dimitri, officially Dimitrios, and I was born and raised in the biggest European city before Asia. Thessaloniki lays on the coastline of the Thermaic Gulf and inhabits around 1 million people. The city is founded in 315 B.C. and named after the sister of Alexander the Great. Throughout the centuries, it has been home to many cultures including Greeks, Turks, Jews, and Romans. Any of them left a twist so that any visitor can hardly not feel at home.
 
 ## :mortar_board:Studies
 
