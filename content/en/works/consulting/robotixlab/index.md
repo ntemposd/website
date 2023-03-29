@@ -28,3 +28,5 @@ Robotixlab turns education into an unforgettable experience by creating concepts
 * Crowdfunding Campaigns Analysis
 
 ![Robotics Course in Progress](robotixlab-2.jpg "Robotixlab Workshop.")
+
+![Table with laptops and tinkering material](robotixlab-3.jpg "Business planning at the Robotixlab cave.")
