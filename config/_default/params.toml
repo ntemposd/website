@@ -102,5 +102,5 @@ lastMod = true #change this
 
 [menu]
   [menu.section]
-    auto = false #change this
+    auto = true
     collapsibleSidebar = true
