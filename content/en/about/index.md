@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-I'm Dimitri, officially known as Dimitrios Ntempos. Born, raised and working from the city that derives its name from the sister of Alexander the Great, who was a 🧜‍♀️. [Thessaloniki](https://goo.gl/maps/qZhv1BXu1zfnJHCS9) has been a melting pot of cultures, with influences from Greeks, Turks, Jews, and Romans. Each one has left an indelible mark, creating an atmosphere that makes visitors feel right at home.
+I'm Dimitri, officially known as Dimitrios Ntempos. Born, raised and working from the city that derives its name from the sister of Alexander the Great, who was a 🧜‍♀️. Over the centuries [Thessaloniki](https://goo.gl/maps/qZhv1BXu1zfnJHCS9) has been a melting pot of cultures, with influences from Greeks, Romans, Byzantines, Turks, and Jews. Each one has left an indelible mark, creating a diverse atmosphere that makes visitors feel right at home.
 
 ## :mortar_board:Education
 
