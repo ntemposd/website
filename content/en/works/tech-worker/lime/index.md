@@ -19,7 +19,6 @@ Located in more than 100 cities worldwide, Lime provides a modern mode of transp
 
 ![Local Students meet Lime](lime-1.jpg "Local Students meet Lime")
 
-
 ## My role at Lime
 
 When Lime launched in Thessaloniki back in 2019, an opportunity to cross paths with a global tech unicorn and observe operations from the inside was just around the corner. I felt super curious and somehow managed to land a short-term Lime worker position for mainly hunting scooters with a Mini-Van around the city.

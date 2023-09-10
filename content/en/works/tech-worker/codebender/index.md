@@ -33,7 +33,6 @@ The friendliest workspace I have ever been in. Back in the days, Codebender's te
 
 ![Cartoon frame](codebender-4.jpg "A typical day at Codebender.")
 
-
 ## Making
 
 ![Electronics project on breadboard](codebender-1.jpg "My calculator project.")
@@ -41,7 +40,6 @@ The friendliest workspace I have ever been in. Back in the days, Codebender's te
 ![Bare cable edges connected](codebender-3.jpg "Soldering cables.")
 
 {{< vimeo id="118997342" title="My party Project." >}}
-
 
 ## Product video
 

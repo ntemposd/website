@@ -18,16 +18,16 @@ Dummy-D offers the most relaxing space traveling experience around the globe. Ou
 
 We met each other 10 years ago at the university. Our goal is to create a modern company where any professional would love to work.
 
-### Members   
+### Members  
 
-|     |               About                   |   
+|     |               About                   |
 |-----|---------------------------------------|
 | Bob | A Hardware engineer with a solid experience on Spacecraft Development. Has worked for Lorem Inc. and Dolor LtD for more than 10 years. |
 | Jen | A Digital marketing expert that specializes on SEO. Has managed several marketing departments and loves designing new things.Business Operations, Sales and Design.|
 
 #### Expertise
 
-|          |               Area                    |   
+|          |               Area                    |
 |----------|---------------------------------------|
 | Bob      | Hardware and Software Development.    |
 | Jen      | Business Operations, Sales and Design.|
@@ -75,7 +75,7 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 
 ![Spacecraft](spacecraft.png "Dummy-D external view")
 
-#### Features
+### Features
 
 |          | Description                                                                        |
 |----------|------------------------------------------------------------------------------------|
@@ -83,7 +83,7 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 | Sofas    | Anatomical sticky sofas that let you fly without having your seatbelt fastened.    |
 | Jacuzzi  | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
 
-#### Ticket Packages
+### Ticket Packages
 
 |          | Perks                                                |
 |----------|------------------------------------------------------|
@@ -103,7 +103,6 @@ We exclusively distribute our flight tickets through our website. The Simple tic
 |----------|------------------------------------------------------------------------------------|
 | Sally    | A young mom with kids aged 3-5. She travels during summer when kids are in camp. She mainly buys, during weekends, influenced by video experience. |
 | Jimmy    | A highly paid worker that loves relaxation. He travels during Christmas and usually books more than 6 months in advance. He buys based on simulator experience. |
-
 
 ### Channels
 

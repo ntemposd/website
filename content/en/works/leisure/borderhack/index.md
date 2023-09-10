@@ -28,15 +28,19 @@ At the core organizers team of BorderHack, tried to connect teams with real refu
 * Event & Logistics administration
 
 ## BorderHack's output
+
 Around 20 local techies have created prototypes and ready to use solutions within a weekend.
 
 ### Bordershare
+
 An imformation sharing website that aggregates all donation points within a city for goods to be distributed at refugee fields.
 
 ### Across
+
 Aims to match people who speak Arabic and Farsi with field volunteers in order to solve language translation and communication issues of refugees.
 
 ### Volreach
+
 Volreach is a platform for sourcing demographic data for volunteers making recruiting in times of crisis feasible.
 
 {{< alert icon="👉" >}}

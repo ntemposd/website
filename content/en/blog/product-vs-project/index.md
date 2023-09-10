@@ -22,7 +22,6 @@ Let’s consider WIX. They are building a tool that allows their customers to cr
 
 > WIX builds a **readily consumable product** while a house builds and maintains **projects to be used** by their customers only.
 
-
 ## The development cycle
 
 **Product development** is usually subject to a repetitive development routine, from ideation to testing and launch. It outputs increments and adds on existing working software, adding new releases while continuously integrating new product functionality and fixes fed by various customer and non-customer requests. On the other hand, **project development** is usually pre-planned on static requests and milestones as part of a negotiated contract. You might see many more unsupported projects than products out there, mainly because support is usually part of a different negotiation. It's an add-on.
@@ -47,7 +46,6 @@ An alive piece of software that is the output of a repetitive development routin
 
 > They follow a routine production process before being published and updating themselves on the fly.
 
-
 ## Project
 
 A set of tasks that a company or team must complete to arrive at a particular output. This output is part of a stakeholder request. In most cases, the stakeholder is the customer or one that represents them.
@@ -64,7 +62,6 @@ A set of tasks that a company or team must complete to arrive at a particular ou
 
 > They follow a custom development process before being published and updating themselves on customer requests.
 
-
 ## Vision
 
 An organization's vision statement is an aspirational declaration that outlines its long-term goals. A successful vision statement inspires and steers the organization’s efforts. Let's see an example for each case. A product company's vision might look like the following; **Reinvent how people share knowledge, tell stories, and inspire their audiences to act**. Inspiring! On the other hand, a software house's vision statement might look like this; **We develop custom software that makes a difference**. It looks like a mission rather than a vision, right? If you ask me, a product DNA company follows its vision and the value its core idea delivers to the user community. On the contrary, a project DNA company follows its customers' ideas and their value definition trying to tweak it so that the deal becomes lucrative.
@@ -72,7 +69,6 @@ An organization's vision statement is an aspirational declaration that outlines 
 ## The confusion
 
 Apart from hybrid companies, you notice them while browsing pricing pages and come across plans that say “Contact us”, there is a lucid differentiation. Hybrid companies are initially building a product and also offer custom configurations or features on top of their core. Another great confusion happens with early-stage product startups. While crossing their valley of death, they might pursue one-two projects to fix their cashflow issues, but that’s all folks. As Product comes up faster to serve the modern digital revolution needs, custom application providers try to position their services as products. They sometimes might not even understand the difference, but they try to hire Product Managers. I agree that one can productize parts of their developed projects or services to an extent, but do they really offer a product? I bet they don’t, yet they are just trying to sell. Will they live to tell their story? Time will tell.
-
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="ntemposd" data-hashtags="product" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
