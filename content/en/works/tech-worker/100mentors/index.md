@@ -5,7 +5,7 @@ lead: "A brief remote Product Owner contract, turned to be a highly enjoyable ex
 date: 2023-09-10T19:06:45+03:00
 lastmod: 2023-09-10T19:06:45+03:00
 draft: false
-images: [100mentors-team.jpg]
+images: [100mentors-team.png]
 menu:
   works:
     parent: "tech-worker"
@@ -17,7 +17,7 @@ toc: true
 
 At 100mentors, I had the opportunity to be part of a company dedicated to democratizing education for all. 100mentors provides customers with the means to upskill their workforce and, lately, offers training in the skill of the upcoming decade: mastering the art of asking better questions.
 
-![Online Meeting at Google Hangouts](100mentors-team.jpg "The lovely 100mentors team.")
+![Online Meeting at Google Hangouts](100mentors-team.png "The lovely 100mentors team.")
 
 ## My role at 100mentors
 
