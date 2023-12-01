@@ -1,7 +1,7 @@
 ---
 title: "100mentors"
 description: "My time with 100mentors."
-lead: "A brief remote Product Owner contract, turned to be a highly enjoyable experience."
+lead: "A short but delightful remote Product Owner contract."
 date: 2023-09-10T19:06:45+03:00
 lastmod: 2023-09-10T19:06:45+03:00
 draft: false
@@ -17,7 +17,7 @@ toc: true
 
 At 100mentors, I had the opportunity to be part of a company dedicated to democratizing education for all. 100mentors provides customers with the means to upskill their workforce and, lately, offers training in the skill of the upcoming decade: mastering the art of asking better questions.
 
-![Online Meeting at Google Hangouts](100mentors-team.png "The lovely 100mentors team.")
+![Online Meeting at Google Hangouts](100mentors-team.png "The 100mentors team.")
 
 ## My role at 100mentors
 
