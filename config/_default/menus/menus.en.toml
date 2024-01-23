@@ -37,10 +37,14 @@
   url = "https://twitter.com/ntemposd"
   weight = 20
 
+# [[footer]]
+#   name = "Crafted with 💚 by ntemposd"
+#   weight = 5
+
 [[footer]]
-  name = "Openly crafted with 💚 by ntemposd"
+  name = "📖 Source Code"
   url = "https://github.com/ntemposd/website"
-  weight = 5
+  weight = 10
 
 # [[footer]]
 #   name = "Privacy"
