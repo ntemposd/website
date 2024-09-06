@@ -52,7 +52,7 @@
     "instant.page": "^5.2",
     "katex": "^0.16",
     "lazysizes": "^5.3",
-    "markdownlint-cli2": "^0.13.0",
+    "markdownlint-cli2": "^0.14.0",
     "mermaid": "^11.1",
     "postcss": "^8.4",
     "postcss-cli": "^11.0",
