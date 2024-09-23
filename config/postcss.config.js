@@ -24,6 +24,8 @@ module.exports = {
         'alert-link',
         'container-xxl',
         'container-fluid',
+        '[data-dark-mode]',
+        '[data-dark-mode] body',
         ...whitelister([
           './node_modules/@hyas/doks/assets/scss/common/_variables.scss',
           './node_modules/@hyas/doks/assets/scss/components/_alerts.scss',
