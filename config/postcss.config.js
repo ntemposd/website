@@ -26,6 +26,7 @@ module.exports = {
         'container-fluid',
         '[data-dark-mode]',
         '[data-dark-mode] body',
+        '[data-dark-mode] p',
         ...whitelister([
           './node_modules/@hyas/doks/assets/scss/common/_variables.scss',
           './node_modules/@hyas/doks/assets/scss/components/_alerts.scss',
