@@ -1,3 +1,6 @@
+## Archived Notice
+This repository has been archived after successfully fulfilling its role for more than five years.
+
 ## About
 
 This is the second version of my personal website, built with [Hugo](https://gohugo.io/) using the awesome [Doks](https://getdoks.org/) theme, and deployed on [Netlify](https://netlify.com/).
